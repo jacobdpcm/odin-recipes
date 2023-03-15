@@ -1,0 +1,24 @@
+* {
+    font-family: "Comic Sans MS", Wingdings;
+    text-align: center;
+    list-style-position:inside;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: red;
+    font-weight: 900;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+img.chick {
+    height: 500px;
+    width: auto;
+}
